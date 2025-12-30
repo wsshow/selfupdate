@@ -3,7 +3,7 @@
 
 ## 安装
 ```bash
-go get https://github.com/wsshow/selfupdate
+go get github.com/wsshow/selfupdate
 ```
 
 ## 例子
